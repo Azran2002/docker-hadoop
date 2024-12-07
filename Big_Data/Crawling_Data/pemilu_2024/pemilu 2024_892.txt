@@ -1,0 +1,51 @@
+Category: Pemilu 2024
+Title: CEO Intel Pat Gelsinger Resmi Mundur, Siapa Penggantinya? - Tekno Liputan6.com
+Author: Unknown Author
+Date: 01-07-2024
+
+News Text:
+
+liputan6
+Pat Gelsinger resmi mundur sebagai CEO Intel mulai 1 Desember 2024. Pengumuman ini mengejutkan industri teknologi, mengingat Intel sedang berupaya kembali memimpin pasar chipset.
+Diperbarui 07 Des 2024, 14:00 WIBDiterbitkan 07 Des 2024, 14:00 WIB
+Liputan6.com, Jakarta - Pat Gelsinger, CEO Intel, resmi mengundurkan diri dari raksasa chipset yang telah dipimpinnya sejak 2021. Keputusan ini efektif berlaku mulai 1 Desember 2024.
+Pengumuman ini mengejutkan banyak pihak, terutama karena tidak ada indikasi sebelumnya. Hingga saat ini, alasan Pat Gelsinger mundur dari Intel belum dijelaskan secara rinci.
+Baca Juga
+Karena itu, banyak pihak di kalangan industri teknologi berspekulasi alasan CEO Intel mengundurkan diri dari perusahaan secara mendadak.
+Advertisement
+Tak lama setelah kabar ini mencuat, manufaktur semikonduktor tersebut langsung menunjuk David Zinsner (Chief Finansial Officer) dan Michelle Johnston Holthaus (Kepala Grup Produk Intel) sebagai pemimpin sementara.
+Holthaus akan bertanggung jawab atas pengawasan lini produk utama Intel, termasuk server, pusat data, dan sistem edge, sebagaimana dikutip dari Gizchina, Sabtu (7/12/2024).
+Dalam pernyataannya, mantan bos Intel itu menyampaikan refleksinya selama memimpin Intel. “Memimpin Intel adalah suatu kehormatan dalam hidup saya,” katanya.
+Ia juga mengakui, tahun-tahun terakhir merupakan periode penuh tantangan, tetapi sekaligus memberikan kepuasan tersendiri. Gelsinger turut mengucapkan terima kasih kepada seluruh tim Intel atas dukungan dan kerja samanya.
+Kepergian Gelsinger muncul di tengah masa krusial bagi Intel. Perusahaan sedang berupaya keras untuk kembali menjadi pemimpin pasar chipset, bersaing dengan raksasa seperti AMD dan Qualcomm.
+Untuk menjaga stabilitas perusahaan, Intel telah memulai proses pencarian CEO baru Intel. Langkah ini menjadi momen penting dalam sejarah perusahaan, sekaligus menentukan arah strategi teknologi mereka ke depan.
+Meskipun alasan di balik pengunduran diri ini belum terungkap, warisan kepimpinan Gelsinger sebagai salah satu figur besar dalam dunia teknologi tetap membegal.
+Kini, semua mata tertuju pada langkah CEO baru Intel selanjutnya di era tanpa Gelsinger. Apakah dapat kembali bersaing dengan AMD dan Qualcomm?
+
+AMD dan Intel, dua raksasa teknologi yang biasanya bersaing ketat, kini bergabung dalam satu kelompok penaseihat ekosistem x86 baru.
+Langkah ini bertujuan untuk memperkuat dominasi arsitektur x86 di tengah gempuran prosesor berbasis RAM dari Qualcomm, yang belakangan ini semakin populer.
+Koalisi ini mengundang perhatian besar karena Intel dan AMD dikenal sebagai rival dalam memproduksi prosesor terbaik di dunia.
+Kini, AMD dan Intel bekerja sama untuk membentuk masa depan komputasi dengan fokus pada kompitasi dengan fokus pada kompatibilitasdan konsistensi arsitektur x86.
+Seperti diketahui, x86 adalah arsitektur mikroprosesor yang telah menjadi fondasi komputasi modern selama 50 tahun terakhir dan Intel bersama AMD adalah dua pemimpin utama memproduksi prosesor berbasis x86 saat ini.
+Namun, dengan semakin berkembangnya ARM--digunakan Qualcomm di PC dan Appledalam produk Mac terbaru--Intel dan AMD melihat ancaman serius.
+Advertisement
+
+Qualcomm awalnya dikenal di pasar mobile kini telah membawa inovasi chipset berbasis ARM ke dunia PC, dan meluncurkan Snapdragon X Elite dan laptop Copilot+.
+Menurut beberapa proyeksi, ARM akan menguasai 40 persen pasar laptop pada 2029, dengan 20 persen penjualan pada tahun depan.
+Ini merupakan angka tidak bisa diabaikan oleh Intel dan AMD, mengingat saat ini mayoritas komputer desktop dan laptop menggunakan prosesor berbasis x86.
+Dengan dominasi ARM terus meningkat, persaingan antara kedua arsitektur chipset ini akan terus memanas, menawarkan pilihan lebih luas bagi konsumen.
+
+Di sisi lain, beredar rumor mengejutkan di industri semikonduktor, yang mana Qualcomm disebut tengah menjajaki kemungkinan untuk mengakuisisi sebagian dari bisnis chip Intel guna meningkatkan portofolio produk perusahaan.
+"Pembuat chip seluler tersebut telah mempertimbangkan untuk mengakuisisi beberapa bagian dari Intel, yang tengah berjuang untuk menghasilkan uang dan berupaya untuk melepaskan unit bisnis serta menjual aset lainnya," kata seorang sumber, dikutip dari Reuters, Jumat (6/9/2024).
+Bisnis desain chip Intel sangat diminati oleh para eksekutif Qualcomm, tetapi mereka tengah mengincar semua unit desain perusahaan. Namun menurut sumber lainnya, bisnis server Intel sepertinya kurang diminati Qualcomm.
+Qualcomm mengaku belum menghubungi Intel terkait potensi akuisisi dan menolak berkomentar mengenai rencana perusahaan.
+Advertisement
+
+"Intel sangat berkomitmen pada bisnis PC," kata seorang juru bicara Intel. Sementara Qualcomm menolak untuk berkomentar.
+Qualcomm yang bernilai USD 184 miliar (sekitar Rp 2.833 triliun) telah menyusun rencana untuk membeli beberapa bagian bisnis Intel selama berbulan-bulan.
+"Ketertarikan dan rencana Qualcomm belum dirampungkan dan dapat berubah," demikian menurut sumber tersebut.
+Dulu dikenal dengan kampanye pemasaran "Intel Inside", partner bisnis Intel membuat chip laptop dan desktop yang digunakan di berbagai perangkat di seluruh dunia.
+Advertisement
+Advertisement
+Advertisement
+Advertisement

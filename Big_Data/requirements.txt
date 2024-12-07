@@ -1,0 +1,9 @@
+wget
+beautifulsoup4
+requests
+Sastrawi
+nltk
+numpy
+pandas
+scikit-learn
+matplotlib

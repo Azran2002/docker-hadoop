@@ -1,0 +1,51 @@
+Category: Pemilu 2024
+Title: Bagaimana Apple Developer Academy di Indonesia Angkat Potensi Anak Bangsa Mendunia? - Tekno Liputan6.com
+Author: Unknown Author
+Date: 01-07-2024
+
+News Text:
+
+liputan6
+Apple Developer Academy telah mencetak lebih dari 2.500 developer berbakat di Indonesia. Proyek inovatif seperti Oculab dan Esc-App menjadi bukti potensi anak bangsa yang siap mendunia.
+Diperbarui 07 Des 2024, 16:00 WIBDiterbitkan 07 Des 2024, 16:00 WIB
+Liputan6.com, Jakarta - Apple Developer Academy telah menjadi pusat pelatihan dan pengembangan bagi calon pengembang aplikasi dan profesional teknologi di seluruh dunia, termasuk Indonesia.
+Setelah pertama kali dibuka di Jakarta pada 2018, Apple juga telah memperluas jaringannya dengan membuka dua akademi lainnya di Surabaya dan Batam.
+Baca Juga
+Hingga kini, lebih dari 2.500 developer berbakat telah lulus dari Apple Developer Academy di Indonesia. Dari jumlah tersebut, 90 persen lulusan telah berakhir di berbagai bidang, seperti edukasi, e-commerce, transportasi, teknol berkelanjutan, dan lebih banyak lagi.
+Advertisement
+Salah satu contoh nyata adalah Daniel Aditya Istyana, menjadi bukti lulusan Apple Developer Academy banyak dicari oleh perusahaan teknologi besar.
+Sekarang, Daniel bekerja sebagai Senior Software Engineer iOS di Tokopedia.
+Siswa akademi di Indonesia memiliki kombinasi unik dari pendidikan berkualitas, semangat belajar tinggi, dan kreativitas luar biasa.
+Selama 9 bulan pelatihan, mereka belajar dari dasar, mulai dari coding, desain, marketing, hingga manajemen proyek.
+Namun, yang membuat mereka benar-benar berbeda adalah kemampuan untuk berinovasi dan beradaptasi dengan kebutuhan masyarakat.
+Mereka tidak hanya belajar mengembangkan aplikasi, tetapi juga diajarkan bagaimana menyelesaikan masalah nyata sering dihadapi di Indonesia.
+
+
+
+Setiap lokasi Apple Developer Academy memiliki fokus proyek akhir berbeda, mencerminan kebutuhan unik komunitasnya:
+Jakarta
+Di Jakarta, Oculab menjadi aplikasi paling mencuri perhatian. Dijelaskan oleh Luthfi Misbachul Munir, Technical Lead, Full Stack Developer, aplikasi ini dirancang untuk membantu teknisi laboratorium di wilayah dengan sumber daya terbatas.
+"Banyak teknisi laboratorium di wilayah tertentu menghadapi menghadapi tantangan dalam melakukan tes mikroskopi tuberkulosis dengan cepat dan akurat," katanya.
+Menurut laporan Global TB Report 2023 oleh World Health Organization (WHO), Indonesia memiliki jumlah kasus tuberkulosis tertinggi kedua di dunia. Dua tantangan utama dalam menangani masalah ini adalah:
+.Oculab memberikan solusi melalui diagnostik berbasis AI membantu menganalisis slide bakteri tahan asam secara otomatis dan mendigitalkan slide mikroskop.
+"Berbekal aplikasi ini, waktu observasi dari 2 jam dapat dikurangi menjadi hanya 5 menit dan meningkatkan akurasi dibandingkan metode manual," jelas Luthfi.
+Dengan pendekatan ini, Oculab mendukung upaya pemberantasan tuberkulosis di Indonesia, terutama di daerah yang memiliki keterbatasan akses terhadap peralatan medis dan tenaga ahli.
+
+Advertisement
+
+Sementara itu, di Batam, siswa cenderung fokus pada aplikasi hiburan dan game. Salah satu proyek menarik adalah Esc-App, aplikasi interaktif yang memadukan Augmented Reality (AR), konektivitas multi-peer, dan perangkat IoT untuk mempromosikan film horor populer Indonesia, "Losmen Melati".
+Tim Esc-App berhasil menciptakan pengalaman multi-sensor yang menggabungkan dunia online dan offline, memungkinkan pengguna menikmati konsep ruang pelarian berbasis cerita film.
+Surabaya
+
+Di Surabaya, fokus proyek akhir lebih banyak pada solusi untuk UMKM. Salah satu contoh adalah MS-T, aplikasi yang membantu meningkatkan keselamatan kerja di tempat kerja.
+
+
+Meski memiliki potensi besar, siswa Apple Developer Academy menghadapi beberapa tantangan, seperti keterbatasan akses terhadap sumber daya teknologi dan perbedaan gaya belajar. Namun, dengan bimbingan mentor, tantangan ini mampu diatasi dengan cara yang inspiratif.
+"Dengan dukungan mentor, kami belajar mengubah tantangan menjadi peluang," kata salah satu siswa kepada tim Liputan6.com saat berkunjung ke kampus Apple Developer Academy di Green Office Park, BSD, Tangerang Selatan.
+Wisuda dan Harapan Baru
+Setelah menyelesaikan proyek akhir mereka, siswa dari Jakarta, Surabaya, dan Batam akan diwisuda pada 11 Desember 2024. Proyek-proyek ini tidak hanya mencerminkan bakat teknologi anak bangsa, tetapi juga membawa harapan baru untuk masa depan teknologi di Indonesia.
+Advertisement
+Advertisement
+Advertisement
+Advertisement
+Advertisement
